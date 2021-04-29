@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Auto_tata/.idea/Auto_tata.iml" filepath="$PROJECT_DIR$/../Auto_tata/.idea/Auto_tata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Python_space.iml" filepath="$PROJECT_DIR$/../.idea/Python_space.iml" />
+    </modules>
+  </component>
+</project>

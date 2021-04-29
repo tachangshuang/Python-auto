@@ -1,0 +1,19 @@
+ssh root@192.168.11.176
+Rtmap-911
+/root/tata/workspace/Auto_tata/monitor_SaaS
+
+pip freeze > requirements.txt
+pip list >requirements.txt
+
+nohup python3 all_result.py &
+ps aux | grep python
+TRUNCATE operation_record
+
+按CPU的使用率从大到小排序显示所有进程
+命令：ps -aux --sort -pcpu
+
+按照实际使用内存，从大到小培训显示所有进程。
+命令：ps -aux --sort -rss
+
+查看网络运行状态的工具，找出系统中使用网络最多的进程
+命令：netstat -tunap
